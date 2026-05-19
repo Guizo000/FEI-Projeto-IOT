@@ -2,6 +2,13 @@
 
 ![Demonstração do Funcionamento](documentacao/demonstracao.gif)
 
+## 👨‍💻 Integrantes
+
+* Érik Ordine — RA: 22.224.021-0
+* Guilherme Rocha — RA: 22.124.061-7
+
+---
+
 ## 🎯 1. Objetivo
 Desenvolver um cofre inteligente utilizando os conceitos aprendidos em sala de aula durante o semestre, sendo eles:
 
@@ -29,7 +36,7 @@ Desenvolver um cofre inteligente utilizando os conceitos aprendidos em sala de a
 
 ---
 
-## 📄 3. Documentação 
+## 📄 3. Documentação Completa
 
 Para acessar a documentação completa do projeto, consulte os seguintes arquivos:
 
